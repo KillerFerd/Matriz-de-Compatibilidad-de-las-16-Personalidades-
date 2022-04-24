@@ -1,5 +1,9 @@
+/* 	***Autubus Grafico***
+	***Desarrollador: KillerFerd
+	***Curso: Programación III						*/
+	
 // Una matriz de 16*16
-// Una visualizaciÃ³n de 5 colores blanco(7) celeste(11) verde(2) amarillo(14) naranja(4)
+// Una visualizacion de 5 colores blanco(7) celeste(11) verde(2) amarillo(14) naranja(4)
 // Personalidades: ISTJ ISFJ ESTJ ESFJ ISTP ISFP ESTP ESFP INFJ INFP ENFP ENFJ INTJ INTP ENTP ENTJ
 #include<iostream>
 #include<conio.h>
